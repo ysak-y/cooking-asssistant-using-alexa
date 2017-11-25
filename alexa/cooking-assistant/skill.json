@@ -1,0 +1,16 @@
+{
+  "skillManifest": {
+    "publishingInformation": {
+      "locales": {
+        "ja-JP": {
+          "name": "cooking-assistant"
+        }
+      },
+      "isAvailableWorldwide": true
+    },
+    "apis": {
+      "custom": {}
+    },
+    "manifestVersion": "1.0"
+  }
+}
